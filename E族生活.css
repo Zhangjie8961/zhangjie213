@@ -1,0 +1,160 @@
+*{
+	padding:0;
+	margin:0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.header{
+	height:30px;
+	background-color: #f4f4f4;
+}
+.header1{
+	width:1213px;
+	height:30px;
+	margin:0 auto;
+}
+.li{
+	width:245px;
+	height:15px;
+	font-size: 12px;
+	font-family: 微软雅黑;
+	float:left;
+	padding-top: 7px;
+}
+.li1{
+	width:50px;
+	height:15px;
+	float:left;
+}
+.li2{
+	width:81px;
+	height:15px;
+	float:left;
+	padding-left: 9px;
+}
+.li3{
+	width:85px;
+	height:15px;
+	float:left;
+	padding-left: 9px;
+}
+.li4{
+	width:245px;
+	height:15px;
+	font-size: 12px;
+	font-family: 微软雅黑;
+	float:right;
+	padding-top: 7px;
+}
+.li5{
+
+	height:15px;
+	float:left;
+}
+.banner{
+	height:100px;
+}
+.banner0{
+	width:1213px;
+	height:100px;
+	margin:0 auto;
+}
+.banner1{
+	width:183px;
+	height:85px;
+	float:left;
+	padding-top: 20px;
+	background:url(img/ezu.png) no-repeat center center;
+}
+.banner2{
+	width:498px;
+	height:36px;
+	background-color: red;
+	float:left;
+	margin-left:203px;
+	margin-top:35px;
+}
+.banner3{
+	width:403px;
+	height:29px;
+	margin-top:1px;
+	margin-left:1px;
+	margin-bottom:1px;
+	padding-left:17px;
+	padding-top:5px;
+	color:#c6c6c6;
+	float:left;
+	background-color: #fff;
+}
+.banner4{
+	width:74px;
+	height:36px;
+	float:left;
+	text-align:center ;
+	font-size:16px;
+	font-family:微软雅黑;
+	color:#fff;
+	padding-top: 6px;
+}
+.banner5{
+	width:82px;
+	height:89px;
+	float:left;
+	margin-left:70px;
+	background:url(img/erweima.png) no-repeat center center;
+}
+.banner6{
+	width:150px;
+	height:38px;
+	float:left;
+	margin-left: 10px;
+	margin-top: 40px;
+	padding-top:13px;
+	font-size:14px;
+	background-color: #f5f5f5;
+	font-family:微软雅黑;
+}
+.shouye{
+	width:1213px;
+	height:36px;
+	margin:0 auto;
+}
+.shouye1{
+	width:90px;
+	height:30px;
+	background-color:red;
+	text-align:center;
+	border-radius:5px;
+	font-size:16px;
+	font-family:微软雅黑;
+	float:left;
+	float-left:0px;
+	padding-top: 6px;
+}
+.shouye2{
+	width:90px;
+	height:34px;
+	font-size:16px;
+	font-family:微软雅黑;
+	float:left;
+	margin-left: 65px;
+	padding-top: 6px;
+}
+.dan{
+	height:466px;
+	border-top:solid;
+	border-top-color:red;
+	background:url(images/01-02.gif) no-repeat center center;
+	margin:0 auto;
+	margin-top:10px;
+}
+.dan-1{
+	height:463px;
+	width:215px;
+
+	float:left;
+}
