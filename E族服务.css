@@ -11,6 +11,8 @@ a{
 .header{
 	height:30px;
 	background-color: #f4f4f4;
+	width:100%;
+	text-align: center;
 }
 .header1{
 	width:1213px;
@@ -57,6 +59,8 @@ a{
 }
 .banner{
 	height:100px;
+	width:100%;
+	text-align: center;
 }
 .banner0{
 	width:1213px;
@@ -119,9 +123,10 @@ a{
 	font-family:微软雅黑;
 }
 .shouye{
-	width:1213px;
+	width:100%;
 	height:36px;
 	margin:0 auto;
+	text-align: center;
 }
 .shouye1{
 	width:90px;
@@ -151,6 +156,7 @@ a{
 	background:url(images/01_02.gif) no-repeat center center;
 	margin:0 auto;
 	margin-top:10px;
+	text-align: center;
 }
 
 
@@ -158,6 +164,7 @@ a{
 .middle{
 	height:750px;
 	background-color: white;
+	text-align: center;
 }
 .middle2{
 	height:86px;
@@ -168,6 +175,7 @@ a{
 	padding-top:30px;
 	float: left;
 	text-indent: 64px;
+	text-align: center;
 }
 .xiaotu{
 	padding-right: 20px;
@@ -175,55 +183,56 @@ a{
 	width: 132px;
 	height:31px;
 	float:right;
+	text-align: center;
 
 }
 /*图*/
 .middle{
 	height: 620px;
 	float: center;
-
+	text-align: center;
 	background-color: white;
 
 }
 .middle-up{
 	height:133px;
 	float:left;
+	text-align: center;
 	margin-left:60px;
 	background-color: white;
-	float:left;
 	
 }
 .middle-utu1{
 	height:133px;
-	width:274px;
+	width:270px;
 	float:left;
 }
 .middle-utu2{
 	height: 133px
-	width:274px;
+	width:270px;
 	float:left;
-	margin-left: 30px;
+	margin-left: 15px;
 }
 .middle-down{
 	height:532px;
 	margin-top:14px；
 	margin-bottom:47px;
 	float:left;
+	text-align: center;
 	margin-left:60px;
 	background-color: white;
-	float:left;
 }
 .middle-dtu1{
 	height:472px;
-	width:274px;
+	width:270px;
 	float:left;
 	margin-top: 14px;
 }
 .middle-dtu2{
 	height: 472px
-	width:274px;
+	width:270px;
 	float:left;
-	margin-left: 35px;
+	margin-left: 20px;
 	margin-top: 14px;
 }
 
@@ -232,13 +241,15 @@ a{
 	height:335px;
 	float:center;
 	background-color: white;
+	text-align: center;
 }
 
 .di{
 	height:84px;
 	width:100%;
 	background-color:red;   
-	float:left;                 
+	float:left;        
+	text-align: center;         
 }
 .di1{
 	height:55px;
